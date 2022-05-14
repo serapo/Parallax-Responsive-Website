@@ -1,0 +1,119 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Lato', sans-serif;
+}
+.arkaplan{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+#arkaplan1{
+background-image: url("./img/bg.jpg");
+background-attachment: fixed;
+width: 100vw;
+height:100vh;
+background-size:cover;
+opacity:0.6 ;
+
+}
+.headeryazı{
+   text-align: center;
+   color:white ;
+   background-color: black;
+   width: 16rem;
+   height: 3rem;
+   padding: 1rem;
+   border-radius: 40px 0px 40px 0px;
+   font-size: 2.5rem;
+   letter-spacing: 0.5rem;
+   outline: inset 0.5rem purple;
+   outline-offset: 1rem; 
+   font-family: 'Lato', sans-serif;
+}
+.baslik1{
+   padding: 4rem 4rem;
+   margin: 0%;
+   /* margin-inline-start: 0px;
+   margin-inline-end: 0px;
+   display: block;*/
+   font-family: 'Lato', sans-serif;
+   line-height: 2rem; 
+   /* background-color:whitesmoke; */
+   opacity: 0.7;      
+   background-color:whitesmoke;     
+}
+
+h2{
+   text-align: center;
+   padding-bottom: 1rem;
+   font-size: 1.5rem;
+   font-weight: bold;
+   display: block;
+   
+}
+p{
+   text-align: center;
+   display: block;
+}
+#arkaplan2{
+   background-image: url("./img/bg2.jpg");
+   background-attachment: fixed;
+    width: 100vw;
+  height:100vh;
+  background-size:cover;
+  opacity:0.6 ;
+  
+  
+}
+div.arkaplan img{
+   width: 200px;
+  
+}
+.baslik2{
+background-color: #282e34;
+color:white;
+padding: 4rem 4rem;
+line-height: 2rem;
+}
+#arkaplan3{
+background-image: url("./img/bg3.jpg");
+background-attachment: fixed;
+width: 100vw;
+height:100vh;
+background-size:cover;
+opacity:0.6 ;
+}
+.yazı{
+   text-align: center;
+   color:white ;
+   background-color: black;
+   /* width: 16rem; */
+   /* height: 3rem; */
+   padding: 2rem;
+   border-radius: 40px 0px 40px 0px;
+   font-size: 2.5rem;
+   letter-spacing: 0.2rem;
+   outline: inset 0.3rem purple;
+   outline-offset: 0.1rem; 
+   font-family: 'Lato', sans-serif;
+   font-weight: 400;
+}
+
+#arkaplan4{
+    background-image: url("./img/bg4.jpg");
+    background-attachment: fixed;
+    width: 100vw;
+    height:100vh;
+    background-size:cover;
+    opacity:0.7 ;
+}
+
+#arkaplan5{
+    background-image: url("./img/bg.jpg");
+    background-attachment: fixed;
+    width: 100vw;
+    height:100vh;
+    background-size:cover;
+    opacity:0.7 ;
+}
